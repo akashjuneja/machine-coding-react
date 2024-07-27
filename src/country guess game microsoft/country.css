@@ -1,0 +1,21 @@
+
+.game-box{
+    width: 50%;
+    height: fit-content;
+    background-color: #fff;
+    padding: 10px;
+    display:flex;
+    gap:10px;
+    flex-wrap: wrap;
+    .country-box {
+        display: flex;
+        border: 1px solid black;
+        height: auto;
+        padding :10px 20px;
+        background-color: #e0e0e0;
+        border-radius: 5px;
+    }
+    
+}
+
+

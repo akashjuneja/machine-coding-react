@@ -1,0 +1,7 @@
+.folder{
+    display: flex;
+    width:30%;
+    justify-content: space-between;
+    gap: 10px;
+    padding:5px 0;
+}
